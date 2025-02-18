@@ -1,0 +1,4 @@
+set
+myfile.txt
+12
+Hello World!
